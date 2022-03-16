@@ -1,0 +1,65 @@
+{
+  "mainInfo": {
+    "img": "/content/user-400-1.jpg",
+    "firstName": "Sanjar",
+    "lastName": "Omonov",
+    "position": "UI/UX, Front-end devoloper",
+    "address": "Toshkent shaxar Qibray tumani Salar shaxarchasi 20",
+    "number": "+998946542653",
+    "skype": "",
+    "slack": ""
+  },
+  "education": [
+    {
+      "sectionData": [
+        {
+          "date": "",
+          "content": "",
+          "iconBg": "#ed5564"
+        },
+        {
+          "date": "",
+          "content": "",
+          "iconBg": "#64B5F6"
+        },
+        {
+          "date": "",
+          "content": "",
+          "iconBg": "#ED6C9C"
+        },
+        {
+          "date": "",
+          "content": "<strong>Middle schools</strong> - Bethune, Mary Mcleod School",
+          "iconBg": ""
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "sectionData": [
+        {
+          "date": "",
+          "content": "",
+          "iconBg": "#b7ce63"
+        },
+        {
+          "date": "",
+          "content": "",
+          "iconBg": "#e9e165"
+        },
+        {
+          "date": "",
+          "content": "",
+          "iconBg": "#64B5F6"
+        },
+        {
+          "date": "",
+          "content": "",
+          "iconBg": "#ed5564"
+        }
+      ]
+    }
+  ],
+  "skills": ["html",  "css", "scss", "js",  "React",  "Javascript", "Typescript"]
+}
